@@ -3,6 +3,6 @@
   "description": "This lambda function will fetch and filter the tweets",
   "memory": 128,
   "timeout": 5,
-  "role": "arn:aws:iam::164985102793:role/fetchtweetone_lambda_function",
+  "role": "",
   "environment": {}
 }
